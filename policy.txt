@@ -1,0 +1,42 @@
+At Jaguar VPN, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and disclose your personal information when you use our VPN service.
+
+1. Collection of Information:
+
+When you use Jaguar VPN, we may collect the following information:
+- Your IP address and device information
+- Your location information
+- Your Internet Service Provider (ISP)
+- The VPN server you are connected to
+- The duration of your VPN connection
+- Any information you provide to us when you contact our customer support team.
+
+2. Use of Information:
+
+We use your information to provide you with our VPN service, to improve and customize our service, and to communicate with you. Specifically, we may use your information for the following purposes:
+- To establish and maintain your VPN connection
+- To monitor and improve the performance of our VPN service
+- To provide customer support
+- To detect and prevent fraud, abuse, and security breaches
+- To comply with applicable laws and regulations.
+
+3. Disclosure of Information:
+
+We may disclose your information to third parties in the following circumstances:
+- To our service providers and partners who assist us in providing our VPN service
+- To comply with legal requirements or a court order
+- To enforce our policies and agreements
+- To protect the rights, property, or safety of Jaguar VPN, our customers, or others.
+
+4. Security of Information:
+
+We take appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no security measures can guarantee 100% security.
+
+5. Changes to this Privacy Policy:
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on our website or by sending you an email.
+
+6. Contact Us:
+
+If you have any questions or concerns about our Privacy Policy, please contact us at jaguarvpn1@gmail.com.
+
+By using Jaguar VPN, you agree to this Privacy Policy and our Terms of Service.
